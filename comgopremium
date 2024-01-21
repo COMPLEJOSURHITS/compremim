@@ -12,12 +12,18 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CtcFcqRZoQyaTNk9Qu-tdCwnFP8
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CsUFGkLf2VLJUW_b18yiH6EhshWwNajRv_XnYdr0oify4r0PK_7A7RtQwstyHstzDklJLQDwYJi3FJV1qp3i8MtY6B0VWo-n23ZoV9J_SpOUQfPje4YCObAK-FAkI98ERojOuH_KHaMb1uEIO6zElZrxoj9lcZ6hgJl8X8NqXsCVe-MfpaqwoK-DUdswcXf7Rj1zOyOJrpGpRnR70F-XbbybMy9LEykbQnGuByAb65f9vyQIfGQofiPzBbFb3JX7-1d9dj8wvyW0THPgAw9a8FjPc-LGl3_HU9FwAhOkRYFGD3kYKKnTYjO7WpwWqcyFMAsgnH9fJJmKSFZZ2Fnicj9W_jsxYVRUiskkfYIKV5PsKk_FDezcj8Wo_jymf756jQ-Q44TF1W0COeU25lgiILqUnwkIg1mVudI7NbyT_3tjZ3V1ZmSwLzXQx-HMOduIarAmDuogaZwIA5fpjYcb82RGkDgGQbQCpFPjwRfiEebyMLCDLGmGKZOaFuaEuMG_mr1WZ1MEgZq1GDA_bwCQk8-_ArA9Sk0RwW1qTEYvLciuEU7R8DY3Vo4VdOObVKbsUhyKr7sCcLcuCd6GYAaF2gTT4JKNvrPQ_dugnhd2J8w6AZyeu_kIZMjrroU0QIgbJPCDsxBsDcr9QLclrxev_xbZbMY-YoHf5XLw-xBjrJa5fcQdXnAmwz8LK53gfAM5GPsn5lTUb5fkrp4zmXIaLpW6oaOmuiZ3Z2o2prVfX3zu29okytX6oae0zrXym2GJ32Y6e519kABftZ9NF1VWQ6HM4V8e8mVsSwC6ae_xBJbvIBiySZFrKaoUCLJrmcnDMBTBrHI9fYR-5N4EGQfbmztlIbZhuyjeM553ePMw3efHZBCRnef7xGa2li1ye-3c8yU-oA4lChz5gz9D1Pvel2O9xzs8RyzeKDNOCyNdIvYr7uF88KSZ3hoMJkMiQ85iaB_oRfM9IAEqCXVzLWVhc3QtMTD5Bg.m3u8
 #EXTINF:-1,COMGO4HDD
 #EXTINF:-1,COMGO5HDD
-https://tgn.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8?WebM3UCL
 #EXTINF:-1,COMGO6HDD
-https://stmvideo1.livecastv.com/televideo/televideo/playlist.m3u8?WebM3UCL
 #EXTINF:-1,COMGO7HDD
+#EXTINF:-1,COMGO8HDD
+#EXTINF:-1,COMGO9HDD
+#EXTINF:-1,COMGO10HD
+#EXTINF:-1,animehd
+https://tgn.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8?WebM3UCL
+#EXTINF:-1,musica
+https://stmvideo1.livecastv.com/televideo/televideo/playlist.m3u8?WebM3UCL
+#EXTINF:-1,musica1
 https://v1.tustreaming.cl:443/somostv/index.m3u8?WebM3UCL
-#EXTINF:-1,COMGO8HD
+#EXTINF:-1,musica1
 https://cdn.mycloudstream.io/hls/live/broadcast/hdc1pno4/mono.m3u8?WebM3UCL
 #EXTINF:-1,COMGO9
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/k9ZJlt6.png" group-title="JOVENES Y ADULTOS",SYFY
