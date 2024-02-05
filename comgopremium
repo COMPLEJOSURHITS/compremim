@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1,SEÑIAL 1 HD
 #EXTINF:-1,SEÑIAL 2 HD
 #EXTINF:-1,kenaivsouza
@@ -15,9 +14,9 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CtAFekcWHWbXVupyGRAuI-5FaFT
 #EXTINF:-1,COMGO5HDD
 #EXTINF:-1,COMGO6HDD
 #EXTINF:-1,COMGO7HDD
-#EXTINF:-1,COMGO8HDD
+#EXTINF:-1,COMGO8HD
 https://vdo.panelstreaming.live:3658/stream/play.m3u8?WebM3UCL
-#EXTINF:-1,COMGO9HDD
+#EXTINF:-1,COMGO9HD
 https://panel.dattalive.com/8174/8174/playlist.m3u8?WebM3UCL
 #EXTINF:-1,COMGO10HD
 #EXTINF:-1,RADDUIO
