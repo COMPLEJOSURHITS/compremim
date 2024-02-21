@@ -34,6 +34,8 @@ https://cdn.mycloudstream.io/hls/live/broadcast/hdc1pno4/mono.m3u8?WebM3UCL
 #EXTINF:-1,COMGO9
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/k9ZJlt6.png" group-title="JOVENES Y ADULTOS",SYFY
 https://live.autistici.org/hls/syfy3239498_src.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/k9ZJlt6.png" group-title="JOVENES Y ADULTOS",SYFY2
+https://us-east-1-streaming.zappix.live/memfs/fbde2b07-7634-4e6a-906c-ef6aeabdff18.m3u8
 #EXTINF:-1,pamdaMAX
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1,COMG12HDDD
