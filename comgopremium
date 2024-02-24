@@ -13,6 +13,10 @@
 #EXTINF:-1,COMGO7HDD
 #EXTINF:-1,COMGO8HD
 #EXTINF:-1,COMGO9HD
+#EXTINF:-1,cmt
+https://us-east-1-streaming.zappix.live/memfs/b22470c6-7fad-412b-b184-65fcfb7a1b7d.m3u8
+#EXTINF:-1,ENT Sports
+https://us-east-1-streaming.zappix.live/memfs/10843c7b-8d2c-426c-a6cf-66334e970ef4.m3u8
 #EXTINF:-1,ESPN6
 http://177.128.113.8/play/a08j
 #EXTINF:-1,ESPN7
