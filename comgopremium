@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:-1,SEÑIAL 1 HD
+https://hd-auth.skylinewebcams.com/live.m3u8?a=219r8dhq6ra9e8rhv1b1397ck1
 #EXTINF:-1,SEÑIAL 2 HD
 #EXTINF:-1,STAR+
 #EXTINF:-1,eventosHD
@@ -12,7 +13,6 @@
 #EXTINF:-1,COMGO6HDD
 #EXTINF:-1,COMGO7HDD
 #EXTINF:-1,COMGO8HD
-https://hd-auth.skylinewebcams.com/live.m3u8?a=219r8dhq6ra9e8rhv1b1397ck1
 #EXTINF:-1,COMGO9HD
 #EXTINF:-1,cmt
 https://us-east-1-streaming.zappix.live/memfs/b22470c6-7fad-412b-b184-65fcfb7a1b7d.m3u8
