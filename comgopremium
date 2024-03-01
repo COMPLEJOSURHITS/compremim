@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,SEÑIAL 1 HD
-#EXTINF:-1,SEÑIAL 2 HD
+#EXTINF:-1,MuchMusic
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/ISAT/20-hls/live-media.m3u8
 #EXTINF:-1,STAR+
 https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/playlist.m3u8
