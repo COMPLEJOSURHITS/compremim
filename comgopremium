@@ -4,7 +4,7 @@
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/ISAT/20-hls/live-media.m3u8
 #EXTINF:-1,STAR+
 https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/playlist.m3u8
-#EXTINF:-1,eventosHD
+#EXTINF:-1,MuchMusic SD
 http://200.24.138.132:8000/play/a00s
 #EXTINF:-1,eventos2HDd
 #EXTINF:-1,COMGOHD
