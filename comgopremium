@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:-1,SEÑIAL 1 HD
+https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/ISAT/20-hls/live-media.m3u8?_cdn_attrs=account%3Dintercom%2Cresource%3DISAT_stream_4n&_cdn_session=260290453&_cdn_timestamp=1709732550&_cdn_token=67deedb8cd1048589b2966f45efd5ad8789dbc14
 #EXTINF:-1,SEÑIAL 2 HD
 #EXTINF:-1,STAR+
 https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/playlist.m3u8
