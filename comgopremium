@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1,SEÑIAL 1 HD
-http://190.6.199.61:8004/play/a08d/index.m3u8
-#EXTINF:-1,I.Sat
-http://200.115.98.26:9000/play/a019/index.m3u8
-#EXTINF:-1,STAR+
-https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/playlist.m3u8
-#EXTINF:-1,iSAT HD
-https://stream.kirachan.tech/memfs/66d4fce2-3240-4ee9-afdd-1203820396b8.m3u8
-#EXTINF:-1,Much Music HD
-https://stream.kirachan.tech/memfs/8650cce0-7b20-4af6-a3e4-06bc959acd9e.m3u8
-#EXTINF:-1,Glitz HD
-https://stream.kirachan.tech/memfs/b584d98a-5021-4e6f-8569-54cdbf77c37e.m3u8
 #EXTINF:-1,COMGO3HD
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CugGezW8D8JroipPR3u_kIaft8ySY_0LZEyzgFHJ-ZKNMnYMbreObpyt_JE9nzcmdlYBqV446Z9tvn4dKn040P1ePX8T6BGIDSCskbAsLtQmGPR7h_qxAgJMNoyfV2lAITklKz4EwWsY84R1KOl9PLKitWpC-4KG-mhbFSgViJ2CsmCbQ_3G3PmLd435cDoyGC40_NzGSfKA6-fm3XPvt98VGRWF2bhlyB3_EhHQcIsngv1oUV-5VTulaRhwyEyUwqTKWk2flvX40-zolYA8ZnXHnqaf2a-PYEph3CQoMtGdrbVtFr7ijB-Bxj1O1Mxr8q5qIYxpAmiyQNCRQUs8KlHI4WsdTVZu2hRinpxi3kSLp5Lh_e1fhROAFTrajH-Q2_xkByPW-y5NKUC5iwi98nNaaXvKopojX1LGm1VFKiIHLeV4Kn1ROkpoB7KHqkIMGPqTRsnZzwtaEt31biREu6ddpB-cgn1vyUUo6rsKIvfKVAp9yBjK4SGkgwed7yynSB021qR0h8iaKrUEsLG0FUh59Rw4UNR9PJT5QHbR_VHfMzJ1pddc26nzA170AY4K1W6vl-C0xnkkShg4w8_AdRXewvjmjxU7GrdpvF803F2orijI8_TKv7-o70uZkUUjG2uwlW1muUWC1FP1rsWC6zwakA0GlA7lWaxrMNcFXrL3C1eTvvbHwczyoYQMcoWJTIjZOUucZMcEwmDsKSenurzeVaSDIDvb05KA3_H0tAa8RV9wNUx_tdI6SiOldjcoEGHuhCMSz43sod9lthEnY-KjGr39yjD6fob4nO-CDgsoMLYluQaohIY25bOH0k5jZMiUjVJSVxyfvi2ZnP8PbuqmomdpvxTIq9qn7zDlTry9zXGw4POEPmfbJmdY3CPPeUypuw8oAYsvN5E5bscJOHpcLMyslwJhpLHO7UCuoFClp9NmlvGe9Cx49gpdNOOAl2EIrHjKGTQ318PuRTjlMk6suyPo9GMR8rEww0IAwU8vGXjA3Pf4YbTTLZh2z8BNScv8G2sDyhuiEWW2UzW6es-y6Yq91J_9LRgpboU3YBXWSQ3BPWVkfbt7g6LrVkcxLcYQZkjK53ahER54NyHjXOggyA0JVBdx9rb8hpqOPtzLrNkZz1Toi-9rRNVq7HP_sTRk0srFvJj6dbUaDKVDjAiTYi86EncNyiABKgl1cy1lYXN0LTEwowc.m3u8
 #EXTINF:-1,COMGO4HDD
@@ -61,3 +49,15 @@ http://138.59.177.34:8000/play/a029/index.m3u8
 https://canal.mediaserver.com.co/live/telemusica.m3u8
 #EXTINF:-1, Claro Musica
 http://138.59.177.34:8000/play/a04a/index.m3u8
+#EXTINF:-1,SEÑIAL 1 HD
+http://190.6.199.61:8004/play/a08d/index.m3u8
+#EXTINF:-1,I.Sat
+http://200.115.98.26:9000/play/a019/index.m3u8
+#EXTINF:-1,STAR+
+https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/playlist.m3u8
+#EXTINF:-1,iSAT HD
+https://stream.kirachan.tech/memfs/66d4fce2-3240-4ee9-afdd-1203820396b8.m3u8
+#EXTINF:-1,Much Music HD
+https://stream.kirachan.tech/memfs/8650cce0-7b20-4af6-a3e4-06bc959acd9e.m3u8
+#EXTINF:-1,Glitz HD
+https://stream.kirachan.tech/memfs/b584d98a-5021-4e6f-8569-54cdbf77c37e.m3u8
