@@ -3,6 +3,7 @@
 #EXTINF:-1,COMGO2HD
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709665278/ei/nhfnZerzIpOhobIPw7SUsAw/ip/2802%3A8010%3A262a%3Aa601%3A9911%3Aceb8%3A7c1c%3A6c64/id/d5f68a41ef5b499e/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr3---sn-uxax4vopj55gb-x1xer.googlevideo.com/mh/b1/mm/31%2C29/mn/sn-uxax4vopj55gb-x1xer%2Csn-x1xe7n76/ms/au%2Crdu/mv/m/mvi/3/pl/40/hfr/1/demuxed/1/tts_caps/1/maudio/1/initcwndbps/536250/vprv/1/go/1/mt/1709643203/fvip/4/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cdemuxed%2Ctts_caps%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPuu2IVMDPwDYRIGysCMWuOzr3DlCYZgdooawIR9AY9tAiAKZawL7deeKNc9yWvH3VvBZPpyLPf-qaCMPkVYD4f_sw%3D%3D/lsparams/playback_host%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps/lsig/APTiJQcwRAIgInqzsd11PNv6VA73KIURrCXp7g_LdQUzuhL6yD1Rz3gCIFr8dEFabPGgstXk05xnt0dp5VPL9hsJEaaQLhygXxS0/file/index.m3u8
 #EXTINF:-1,COMGO3HD
+https://d16k620tapvw9n.cloudfront.net/out/v1/ad1094549fd74838aa8a0e3a7732d2ff/index.mpd
 #EXTINF:-1,COMGO4HDD
 #EXTINF:-1,COMGO5HDD
 #EXTINF:-1,COMGO6HDD
