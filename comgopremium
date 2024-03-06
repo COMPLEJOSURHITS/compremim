@@ -21,7 +21,7 @@ http://200.115.98.26:9000/play/a019/index.m3u8
 #EXTINF:-1,STAR+
 https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/playlist.m3u8
 #EXTINF:-1,iSAT HD
-https://stream.kirachan.tech/memfs/66d4fce2-3240-4ee9-afdd-1203820396b8.m3u8
+http://204.199.122.4:8000/play/b060/index.m3u8
 #EXTINF:-1,Much Music HD
 https://stream.kirachan.tech/memfs/5ec14fbc-7a5e-44f4-938c-ecd284348030.m3u8
 #EXTINF:-1,Glitz HD
