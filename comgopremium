@@ -14,6 +14,14 @@ https://d16k620tapvw9n.cloudfront.net/out/v1/ad1094549fd74838aa8a0e3a7732d2ff/in
 #EXTINF:-1,COMGO8HD
 #EXTINF:-1,COMGO9HD
 #EXTINF:-1,COMGO10HD
+#EXTINF:-1,  I-Sat Argentino
+https://stream.kirachan.tech/memfs/ca839078-08d5-42fc-b1a8-f3e221f5df35.m3u8
+#EXTINF:-1,Much Music
+https://stream.kirachan.tech/memfs/68d4d7a0-a8d8-485c-ac78-3021457192dd.m3u8
+#EXTINF:-1,Glitz
+https://stream.kirachan.tech/memfs/9d77d905-8596-4236-a44f-2c6b077ebeb1.m3u8
+#EXTINF:-1, I-Sat Panregional
+https://stream.kirachan.tech/memfs/c32373db-ca4b-4f06-b279-4d376d307249.m3u8
 #EXTINF:-1,SEÑIAL 1 HD
 http://190.6.199.61:8004/play/a08d/index.m3u8
 #EXTINF:-1,I.Sat
