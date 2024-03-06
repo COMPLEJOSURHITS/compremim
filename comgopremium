@@ -1,12 +1,14 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml"
+#EXTINF:-1,CAMAL1
+http://190.94.186.158:9981/play/a03r/index.m3u8
+#EXTINF:-1,CANAL2
+http://200.24.138.129:8000/play/a00c/index.m3u8
 #EXTINF:-1,COMGOHD
 #EXTINF:-1,COMGO2HD
-#EXTINF:-1,COMGO3HD
+#EXTINF:-1,animemaxCOMGO
 https://d16k620tapvw9n.cloudfront.net/out/v1/ad1094549fd74838aa8a0e3a7732d2ff/index.mpd
 #EXTINF:-1,COMGO4HDD
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CsQFUOaAk7VOvXAUb-kY_yWm7I1qD59DQWZ9IMFuKpucq4oKgqkE-CvHCN-MmbspAiUXnGEOXjpuG1w6GB6H2KszcJBOyhIuYfjT4ApIbHhlxwuso6asO8kVnOken0fBpgfPN99ew2bPl43nZDOqw-wNR-eWJP03e76jOn7jNmVDQCEi6r0gcJCDv91PFd29wXjcypbHg6U_bL1HevQplWngmxOn8IlV4O0xSxk2qZR30kt4TGNMI_82t7T1OZNr55sF0izsT5EzwlJPd4SGx5HiteqOGpxs6qg-FuFHLo0WsXf7WdFDv6Nqsi-s9fX2Dc7IKFHABZIWBBHPTlhc27LpiFTOehqj6vo04Is2TCFUx7gDjwy4sOXF-cxiML2cXi5gI7MoW4x15wZKcCjGManFR-eQxWcO3baLYcD1tRWELmu8d5z-H52tZwypXAD9dBhuFibHJA_RGQbbWXBKXfdIjqROazbNRs8frgSHUhZgKMRM66yh1Kj_L9AVT_u7v9Lf_TbDYIooYZ2-akNJLd6jPeX4Vk6uYCppAdZH19X16VZFgLgk3IGgeXsYbO20YYPA67aeBIGkduMhaktHjCWxNNbbkmMN0MJHnbXPraKligMNxoX-VMhNHS9J57IeqEqI3uH8TNrLh6SpfXpk3fnT_I7DWpRgG18STPD22c9TW7uqtwWtli-_6FWYldGYf6hIOuFMaAaLWcFNRunnMdqW6G_N9GhLoku0QuUaEze83Lf6VGaO1FU_I0TUIjh2mt6qSPMFpUd1P7MIRtNVQzkih7OrKnOn90vfYZuV76RtFNEp-DO6-J40L6SBoMsH6eplqv2-vdOqe1ytUJZV5ePI_nkFWzL0IdauYfbnachdX1SO9eZn6zkG4ZBJryUTQaQINgag4FfBAxjWWEbyEZ6hzc3eyyS7fO_Rk8YsxeBYYaKH5cnRGgz0JDx7j1a26X9jQSMgASoJdXMtZWFzdC0xMKYH.m3u8
 #EXTINF:-1,COMGO5HDD
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CssF_RZzMtG0Z0kGX88SigdBmuU5519PKuTaNaXVlNK_IwKGvQVfhFl3oC5C3u9tTnrlQE5VDm8YESa2t68Kcq8i5gKuJ4BY3xJUKKvNQFE0JFDrOnzOQ_Bik2dzLIczx8ZGQRzmfvFnown_UiYo29BbFOvm8FfuE8CZKQYvmdKbs_e9nbEoBtT-47ApPxU8GMp-n3zJRr2AlR2FZ7Ml-1-X2Gc3uAts-vY4t88RdbCamgb1Qd9bzuiPMPO0h8vieJkXVgyp7-AYPC0c9E9xJmAERw3iJ01kH0i7hlGF4BnF6VjzAg32zu39Y6LCNVqsNi_B3wRmWsvoqFl0xObH-SqjmhbWymY5jY7d1h07alsJM4b10wHmnHuduTVqXRG27MMvLLRHkzd8TtLNUjTX_X_cc6BLh1M4DEtBrpOTRTZb0XomTZVull59CsPhc0PxG7zfdt-wBC5DqrBNbqZQwQ6b246LAsXJD8NTX5_k4Aky4_s1JG5kM5AeJoKjsWLkMdQnL1iWY_Sa6CZ-HC7bNnzx5CHwk4SlsMSQrJ7HZyUUVXLUCLnmD0Cbkd1N0YIC6hPXUGbpo8w2xUsbfhJcJ5byrp3Bzb4EcuSJyXF98YF74WikKfvojiqTjXeBL_QPU5Z5PMRQtx5GDheS4gdT94oUe3v0BvrV181afb93ueSIZ-8eO2WjvKkQyRzkbbUwDMpHUpBDlFv48HOCewuacdQCVyXkF5NHYr3BtTKkRoZTkvVIsglZxuu-rb0bUxRJIPEJciE7p8V8mTGgk_GTCyrCF442QLVNUOfvXXsVy1bkny34EQEwYCP_B7huKTNEd7D7v6Qb_UlDze1G7u2ncEk_beaxOhSPgkSKRDMlARcgSmtPwjQSZ61iJp2eNNRfo86S5reZc0ZEOev45wrCTzhgvHG-6gjMDQfx5graQs8acXDR7ROpQwWMPitbLRoMdvGHkShhbonv3cOVIAEqCXVzLWVhc3QtMTCmBw.m3u8
 #EXTINF:-1,COMGO6HDD
 #EXTINF:-1,COMGO7HDD
 #EXTINF:-1,COMGO8HD
@@ -40,10 +42,10 @@ https://v1.tustreaming.cl:443/somostv/index.m3u8?WebM3UCL
 #EXTINF:-1,musica1
 https://cdn.mycloudstream.io/hls/live/broadcast/hdc1pno4/mono.m3u8?WebM3UCL
 #EXTINF:-1,COMGO9
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/k9ZJlt6.png" group-title="JOVENES Y ADULTOS",SYFY
-https://live.autistici.org/hls/syfy3239498_src.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/k9ZJlt6.png" group-title="JOVENES Y ADULTOS",SYFYLA
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/k9ZJlt6.png" group-title="JOVENES Y ADULTOS",SYFY LA HD
 https://stream.kirachan.tech/memfs/fbde2b07-7634-4e6a-906c-ef6aeabdff18.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/k9ZJlt6.png" group-title="JOVENES Y ADULTOS",SYFY Panregional SD
+https://live.autistici.org/hls/syfy3239498_src.m3u8
 #EXTINF:-1,pamdaMAX
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1,COMG12HDDD
