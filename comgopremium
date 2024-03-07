@@ -4,9 +4,9 @@ http://190.94.186.158:9981/play/a03r/index.m3u8
 #EXTINF:-1,CANAL2
 http://200.24.138.129:8000/play/a00c/index.m3u8
 #EXTINF:-1,COMGOHD
+https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CsQFdaSaS6l3OHRQ05qFwRHxMbM56lTu66jqn6-keSVy5F9L8OECJ7FGZAvPOGb9xaIakhbigUTdpDPYq3tQIfxOWCi3pDxCJiWcJXCiWKkYH-9NitRDzN24kB45JVTDfrCaymhjMa6c3iI9ZRwuiXskXMG5MxtuC4BC_3kepRLK7rUiDxPbwnYva8Aea4JURLXmxWALRC714C_9bYqDIoh3vm3wyiO7Z6LNCQN6AHXOd7KOKnEeo3ayv0N_EEZ4CFKEdeEIli6rlml_elJX2HeK1aH9eRuAqzmj1sClrBapudrNYPfmVMNHjrdGktSUdyAPeEmVVhoIjB4-3ETd2NW2tOuGjJ1Po7iGYmPaht4SQKUJ09iYpwS3CQX4FMWnfkWxXAUX2oIMxgs1Na1vC5WW2NOu_bqcBikdSxLaSbvs9prg8pTqrP6zFyLUa0vxrkqWkLGYEwZ8xqT1Xztm5kb9LXs8jgDzMN7IFe13OhZOjxTNt7uiOSjrYLl_v0uuv4jdsjbz-p-ekSzdz9ZAA63CC4VSkwr2yySJPguKCMYhtWiuWe66GSsQ52SxWc0g3dypJxNRDfmfKVpRp1xU1lN3qhLnY4Ogj3c7SWcRYLuMXZxraK9Fx3p790bgcbqnMsrsLDEn4Ttkx-PrAiEJDH8NNvKUnVXvFo2t3JyP_CvS_xmfG5jmhVqAPOCVXicp4mabaKNSkA2mY_wApJhG4vXV2JSOEMQXRY95Q7vWAxrTM6PnOQ0ZCMKNCHk9oo2L5Twh_iOHmqPbI6OLyhnMCsECmYNkAeOhjS898prxqtWUzHPRbse9QdRa610SvJ4u4I5aTvaxJ7eAU27-AfW-ZXjZZGuySplYh2cBJ00QAvcpOU2F2XWNRpWNDfCx8gcdPpALW3404c8sJqSnymNfwQDdfpiIyjrO4xYMY7EmwzRstcW7T7tMGgxs5leXmhEl6JiREEYgASoJdXMtZWFzdC0xMKcH.m3u8
 #EXTINF:-1,COMGO2HD
 #EXTINF:-1,animemaxCOMGO
-https://d16k620tapvw9n.cloudfront.net/out/v1/ad1094549fd74838aa8a0e3a7732d2ff/index.mpd
 #EXTINF:-1,COMGO4HDD
 #EXTINF:-1,COMGO5HDD
 #EXTINF:-1,COMGO6HDD
@@ -14,6 +14,7 @@ https://d16k620tapvw9n.cloudfront.net/out/v1/ad1094549fd74838aa8a0e3a7732d2ff/in
 #EXTINF:-1,COMGO8HD
 #EXTINF:-1,COMGO9HD
 #EXTINF:-1,COMGO10HD
+https://d16k620tapvw9n.cloudfront.net/out/v1/ad1094549fd74838aa8a0e3a7732d2ff/index.mpd
 #EXTINF:-1,  I-Sat Argentino
 https://stream.kirachan.tech/memfs/ca839078-08d5-42fc-b1a8-f3e221f5df35.m3u8
 #EXTINF:-1,Much Music
