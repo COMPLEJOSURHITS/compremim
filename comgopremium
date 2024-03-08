@@ -6,7 +6,8 @@ http://190.94.186.158:9981/play/a03r/index.m3u8
 #EXTINF:-1,CANAL2
 http://200.24.138.129:8000/play/a00c/index.m3u8
 #EXTINF:-1,COMGOHD
-#EXTINF:-1,ufivt
+#EXTINF:-1,spectrumtv
+https://panel.miplay.cl:8081/spectrumchannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1,COMGO4HDD
 #EXTINF:-1,COMGO5HDD
 #EXTINF:-1,COMGO6HDD
