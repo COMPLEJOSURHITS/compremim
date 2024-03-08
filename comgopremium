@@ -1,12 +1,4 @@
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml"
-#EXTINF:-1,animemaxCOMGO
-https://d16k620tapvw9n.cloudfront.net/out/v1/ad1094549fd74838aa8a0e3a7732d2ff/index.mpd
-#EXTINF:-1,CAMAL1
-http://190.94.186.158:9981/play/a03r/index.m3u8
-#EXTINF:-1,CANAL2
-http://200.24.138.129:8000/play/a00c/index.m3u8
-#EXTINF:-1,spectrumtv
-https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
 #EXTINF:-1,COMGOHD
 #EXTINF:-1,COMGO4HDD
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/Cr8FRvxjGNM7ddifznt6-wJX02oQfg7vQLRP1nND8uWI-eWPu2nRMXG_KQyvc0Gl3yxn10Tr3cAGU3rsmd2Kq7JZDZEEtE5V6qPq9Q3rS9LvRTYYQyUHBTfRXNcFO0IbKMWvlXjKC6cyD1wh7ELbjKPEvu21oHTP90hAIj8Sr2EJLW-TVyhsVoK0NK5M5Qk3Dn68nXtT8Bi9UtyHaNuX92BERHQKDzAULUGmvTK2ZddP-mrd_ycBA0wQnmUXE7a9pLOvf3aJ_qNxg_jST-zqDho5AFljy1VV8Psa5h0OEGe1WiUovcFDEsiriqB-UOBRk-g7HyhB-QVQvFc06kG0KZ6rzObCm96pmyMfXVsLuFiFUm-VMUKkIWkgF2HllOak7smZYZ3d5rhlhscKQj8a9Cccz9N_DAHN19Wz7_v69KyfhadFuBcup1dMbaBexnbW6NbaTSgyMXtAvfsk3ebqdZa9w03aGMdV7x1yOKjLh0qfp4SLzokwNMzgGLGBWU-sy1qXWO8F1qXokCvX8W6xMqJ4ftDaJz3jKzEn17o1wNo0nnlTkXWGIcTjTFBOq8yw6msCPaQPY_WkXaX8ZVVkvqC4o1ZTU90KQTuM-JYwXg3h1mHleiZABUsHrb3KJhMk83iSm1HrDljdSb3p5UjYgDbzNoV1NIj2QWs6XjKdty5_LbkYcuCSO1Uzn8B7_UDVPTo_zDhh_fDKNbfBRtLoVUz2zZarGfkVZArPRrLwI2-bo9LfDg2BdEXpdJkCEbldntPnz0dY7JhHzOdbxxzrENxcvMmCuQBVVtbpkgVzZM8AzcexEkqzhC0dDpPBocFz2mAeReouhRshBCX4gX1XTXERBebe6LgE18kJwuA1ui_wh6Jh6IQjguxUWvnLwKYX_rL5RZOVATNLda8motLe-3QRfWLK8c11wXSB9YoznT0FjBoMuimhkEF6s3o-naqNIAEqCXVzLWVhc3QtMTCoBw.m3u8
@@ -20,6 +12,14 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/Cr8FRvxjGNM7ddifznt6-wJX02o
 #EXTINF:-1,COMGO12HD
 #EXTINF:-1,COMGO13HD
 #EXTINF:-1,COMGO14HD
+#EXTINF:-1,animemaxCOMGO
+https://d16k620tapvw9n.cloudfront.net/out/v1/ad1094549fd74838aa8a0e3a7732d2ff/index.mpd
+#EXTINF:-1,CAMAL1
+http://190.94.186.158:9981/play/a03r/index.m3u8
+#EXTINF:-1,CANAL2
+http://200.24.138.129:8000/play/a00c/index.m3u8
+#EXTINF:-1,spectrumtv
+https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
 #EXTINF:-1,  I-Sat Argentino
 https://stream.kirachan.tech/memfs/ca839078-08d5-42fc-b1a8-f3e221f5df35.m3u8
 #EXTINF:-1,Much Music HD
