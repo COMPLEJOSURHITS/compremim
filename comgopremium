@@ -44,7 +44,7 @@ https://v1.tustreaming.cl:443/somostv/index.m3u8?WebM3UCL
 #EXTINF:-1,musica1
 https://cdn.mycloudstream.io/hls/live/broadcast/hdc1pno4/mono.m3u8?WebM3UCL
 #EXTINF:-1,COMGO9
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/k9ZJlt6.png" group-title="JOVENES Y ADULTOS",SYFY LA HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/k9ZJlt6.png" group-title="JOVENES Y ADULTOS",Much Music HD
 https://stream.kirachan.tech/memfs/fbde2b07-7634-4e6a-906c-ef6aeabdff18.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/k9ZJlt6.png" group-title="JOVENES Y ADULTOS",SYFY Panregional SD
 https://live.autistici.org/hls/syfy3239498_src.m3u8
