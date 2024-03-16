@@ -2,6 +2,7 @@
 #EXTINF:-1,STARES
 http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/126254
 #EXTINF:-1,COMGOHD
+https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CtgH3fdjy4UflzQyil9BADSVqnJDuVl8lwEO0gw_rE2gbLOCoU8aEUPtz0QjevhTFOu-mx8dqwQoZ4e-ql5LzTQIFqfniIaIRYWCa-htB79k4DoHq8PYRaUTP7qZ7S9b4T3Gh-BIUaUA6x0dZ75-UJKM94HUIodTs2-hzTw9pLfmNoUeh4Hkg1QnUuGx9v_vMAzu2HCguJG3pJ1SLFJehPXH2ITkcLlKrMNPWC-cXh4OP0g_modLxcG4_2XW-oqZ3hyzke62TOKDwoCZhTL8fQd9wRsE6yWL0ZqpvfHTpLV6ucB3kIiY7CQ5LLWPx-CHk5MZmPiokS_0vxOFuCnuFSeiyHRVBAQj9g7Hn2DIsA0flQHoTEDarLXV6xp0sfNf3q_I54u9banACETUT6yD1JKBa2WOoNcl4MKev3GfSI0K7_d8itfSB58M6cSGsxNpQT2iNiIGKYsn-GNiMsg_zY4hQtDo0x01Yz-rQ2gXo5vQ_MvB-agIeb2W4V7PksKW23WljfVv-fw-leUVWeHZlZWJZYAlXvjVaKZ_owCZvpoxbya_4V_6-AVjRVIvSG3rwPf81aItmPSw4MbRMhskIHm6nVO6dTI50HfbXd5WSYl7fBLGN1ySTCf-1tZt6SDsFSRvCd7hqNYBDCOyn8P_gIHmaayEcqUKkyAUEvl4A4wyKlIpI5MPMtPNhOwa01gav6iNwtmdWaj4T5ZO3KYiVmCTVb-5yZcThFXbF8JJ4Q0oXvBGrVpL2vEP4CcUxJhMdhE3Za2LDm72xpblPgcjOQVSqVthGXTxUUROdK7N70-md_v7p9oNusrzZqSc0PMIuh1reM0oVHkjzgOrqUoSHCvIOQ8VNDRGOHZ5Biinv7JUDe9hP3biyC6Q6szVkvifn6t7d6ZZGYSXx6Lc3pluSLTJ2bC1937wDHVRPCos4QzEwZVApi3y5NWdzH_f-muhr6nI7t4oxp1qRfORFuVmISv4c2UOrGXXwROEpfXkfrqz5OQSzOWVicvoQWnlujzcIZmeS_NNaD_o-uZMKYHJxr-8svb8LcXRja3vN9Xo963BQ7FLQtpWiM-I6lKIycYNYRA8cmMBFX2ZfT9n5YAdz8ZljvjERgRJsnyZqgk4duqBv7N8rgeSubEb0qK97FCfrMWaXyyMo2GY0YezGDKEoUNV4OkPg6fL1186Jb8DoVeGL80PrOuALmD-PtDtpaJ_k2dC3zeMhBShrbCRWwzgaB67I5NWN2cqOw9HyRULsSuaV1kLHOIy03Ctp6-mWpWIu5cpYdQ0nmBQo3Fcl9d6FlI5IDQyzHDe62xCGgwAH8yDQOTuj41kl-ogASoJdXMtZWFzdC0xMLEH.m3u8
 #EXTINF:-1,COMGO5HDD
 #EXTINF:-1,COMGO6HDD
 #EXTINF:-1,COMGO7HDD
@@ -44,10 +45,10 @@ https://v1.tustreaming.cl:443/somostv/index.m3u8?WebM3UCL
 #EXTINF:-1,musica1
 https://cdn.mycloudstream.io/hls/live/broadcast/hdc1pno4/mono.m3u8?WebM3UCL
 #EXTINF:-1,COMGO9
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/k9ZJlt6.png" group-title="JOVENES Y ADULTOS",Much Music HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/k9ZJlt6.png" group-title="JOVENES Y ADULTOS",SYFYHD
 https://stream.kirachan.tech/memfs/fbde2b07-7634-4e6a-906c-ef6aeabdff18.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/k9ZJlt6.png" group-title="JOVENES Y ADULTOS",SYFY Panregional SD
-https://live.autistici.org/hls/syfy3239498_src.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/k9ZJlt6.png" group-title="JOVENES Y ADULTOS",Much Music HD
+https://stream.kirachan.tech/memfs/2b10fb7c-f9ce-4383-ab2e-6ef143a39d2a.m3u8
 #EXTINF:-1,pamdaMAX
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1,COMG12HDDD
