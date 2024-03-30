@@ -14,6 +14,10 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CtcF_qPXcOtfd5Nv2LqvCcUSDMT
 #EXTINF:-1,COMGO12HD
 #EXTINF:-1,COMGO13HD
 #EXTINF:-1,COMGO14HD
+#EXTINF:-1,COMGOANIME
+https://streamyes.alsolnet.com/maxanime/live/playlist.m3u8
+#EXTINF:-1,COMGOSPOTS
+https://streamyes.alsolnet.com/esportsmax/live/playlist.m3u8
 #EXTINF:-1,club disco
 https://stream.zeno.fm/n2e4q8rpxxhvv.m3u
 #EXTINF:-1,radiofm
