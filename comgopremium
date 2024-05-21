@@ -1,15 +1,27 @@
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Z15GFtH/logo-Syfy.png" group-title="JOVENES Y ADULTOS",SYFY LA HD
+https://stream.kirachan.tech/memfs/fbde2b07-7634-4e6a-906c-ef6aeabdff18.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qpf6p3n/Logo-Much-Music.png" group-title="JOVENES Y ADULTOS",Much Music HD
+https://stream.kirachan.tech/memfs/2b10fb7c-f9ce-4383-ab2e-6ef143a39d2a.m3u8
+#EXTINF:-1,pamdaMAX
+https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
+#EXTINF:-1,energeekHD
+https://wifiexpert-1.energeek.cl/energeek/canal-1/playlist.m3u8
+#EXTINF:-1,fanpopHD
+https://wifiexpert-1.energeek.cl/energeek/canal-2/playlist.m3u8
+#EXTINF:-1,ModoRadio TV
+https://wifiexpert-1.energeek.cl/energeek/modoradio/playlist.m3u8
+#EXTINF:-1,energeekRADIO
+https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8
 #EXTINF:-1,COMGOPLEY
 #EXTINF:-1,COMGOPLEYHD
 #EXTINF:-1,COMGO1HD
 #EXTINF:-1,COMGO2HDD
-https://video-weaver.bue01.hls.live-video.net/v1/playlist/CuEFthd0LlMO-yPf1SAa3AZ7RRx2UUPk0R1GcJIIbND7ViRfGb2ES8O3mdgyw9Srq-jSlR1wY2XlkUx399OR5l6L8tQv3nKwKSCV_waY7x6E756PryGonD7-GYI5GchZOlwmhfg0eqXoIhyVCqrZOKLwOsw4swbAypvEt7hkB7lMTSCLQIpRim0JNSnklt-aqqIOiC1b92IgwTD9BiOdfi9CLWQ1bzF3q9GWIWbv7g8uB6EO6VkX0gRQ3GnBbL14RccXcFulPGKydDGI79mP20uGfV24GuemBOyYDs9Zl1FVrX9anxx6KW5Oe62iA432kkRXXvRe--E3pqNSTHwdz0eCe4N1MPuleOGWFpQ2r7UE6HcqO4MV0s05RhYVHoPdQy8R8cTtB4Biz6WiZIMnFWfXJ_vf8IBkRFRqW_Np0DRt5BbwTamQALlWIs0vtrJXkGVG6izKB4D4GZYh8cUL06wZpf7e6NTFkRNK157XTQv3VTgK8AwM2HAxE2r6gHf1hXcK6oQKapZzNjOFHD9pr4LdDQCaWemWTtRR34KoAmpvCwsct2zPABb7DTgvP3Isrsu9fMvC2mYCRBms3X98BRm-qKLqtpDpRy0frQ5snNrfkNdSyVQX7evAVVqASd51KvLIYyLZ6VUStMCG2YJ528txZh8DJRoPwt5pqpqoz8IrZ5Aaz0arnm4iQtBlULlOceIUrU_JLsMWBrUrOD5pcTXZ0JmH1hQHUheJQP1swF2dIRNruF3s_RMVAOFzTBlikfjWsi0ChrAJHAiN_OVsWzElnxDn3rK9YmugJkTcCRrpqoJs-c4OEiJr3DVDkavVCdDY-NZ5vIf4ZiJM6i8sM174Ln7AeQKGiIhhga3bySG_PiPuyT1HDuhL08Zeani9_mAz64nNDahQJ-6c6NIY1yWtWHVCTu45jAkHYqX5r0J8aWIywK6ie219np7QbPHt81dq5m3z1DenWndqwjxDP6ctbuUaDEe4repuW-rCCVigqSABKgl1cy1lYXN0LTEw8gc.m3u8
 #EXTINF:-1,COMGO3HD
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CtAFJuLh2Zdd2pG7yvMw2bR0C86J50SYlaHAvDDXMwDArG5outSLHic3F22hQsSyuAxvpSGHUH8ejbCGDxDK0Y7q00UcmH8YYr35c_5Ahsj11K4f5O4t7BiNWkYsdW2qycGa8fb_LKF6338r5dtal7DAfuvr2pE-4351VzRRKoNtduyNjlooLVfWpaIxXhMgBKl7YPBQ4duSOlnTPQfpDtBxwDmCUQRhVLUTj_KC8szf8iBo1o-iKQMyEPJHtBvEuzxcjORS8S_W8B67uhXgTwHJ8NDM6CoVGTGvjBElnwmOcdx4qWOCNrKMyqBKIBxzKCxyzE5KCm1_isAc7FJrvdlLBxI1Pk2DKtzX5FlQSGqL9z55lXBDyWPiNgKJUTTwCbW-77nwfmGB7mGDblxfq2n-HZDhR07r4y_IOh31NeZEHDj_0ZIhWWrlglBgxe_MIf426aoPIVkndeoPQQocQ7JtyuwYugbWn3GTZ89TfvJX1VrLS8EZWuKjGelrimg1g9Yz3bXHUmBFZ5DuiOC8DTIDP9R3tmrN3AqcEc38_a8RJGd62g6rzNDMrH5uH15tYz-hvGPMZrcQUHTSv0-Jcl2hJ4bojwAY1KqZzp2rVPaZ0GUnN1Ihdt5CBSOus0SJLpiR-EldOqFrvCuedV64SiXuCOGoWsyeGQtzua0V90MZ7pXaM-ezJI_bYFCJ6ia6DfRnLG6-3PqGLbekGLSueXELK1Tdg7NTdD2H53qxYFtiF-btv19JrirsvAKx2l8XElwOB5qp_XTxCCmIPaZP_SqUEJEakoe3sNeRgXwVBBas7ytAP2pWbTeGAj0zvl0fvFqd3kHXyHTucaREJUvO7aXuRDpR46kmDprdh5QDi37OM0w7---RYPQHPGlbN4yeQ4Xf-0ObYE5gyPcJ7w_QtvXxWYoLSGVTeNs6e2fzaqz0imWkq2PYcFbE3kRY8M3Ai_v-Ggyfu7WFUQSbRpK95Q8gASoJdXMtZWFzdC0xMPEH.m3u8
 #EXTINF:-1,COMGO4HD
 #EXTINF:-1,COMGO5HD
 #EXTINF:-1,COMGO6HD
-https://video-weaver.bue01.hls.live-video.net/v1/playlist/CuEFhiOpAjQKZjHkvsNsPBFqQRpvvvP1bFRv-e5KAWAQR-hE6wc3dpYmNYXOd0a3JRcbasfAgQNX4_0pdB-XFEBhh6lUqJk4hZIVq_ODv63sP9fR4qqoo4N9mL8HJs_ytaP1OP6okNF-0knQfVJpWo_-jUwbp8U7ZteSx-ZM6o6PNX_jczMbE4mD_majAGKP5yS3e3vKWQycYJ4Nu1nzgNUaRRS9paTn-KXakkVPGyI5LmycrbSeDgm5stKcoIdRdLYLNdHVUno6quBXNqrTRZZLMyDy6eRotS6zkqfpTtn_o0dg07VCufx7xhc_TLzfQqZ3yDssALnS28cWpAkCgqgIgyrIblixhSeyZXpPxufUf07a9eYZRTnqwzf4_y7ZDxesIC0muNuujbJUg3bVIY0uO9ccQD7OJljbES00LXnkUGwGH_qTerrqvi4Q_rFf_AB44TRW1FmkI6FBHczDtBZMAWE_qfemaD-JWJSbtPaHLGc5gypzMECKvTBV2HcG-UxGFrbf2Uolc6e115AV6KLc_7eRo98pw7sqLhTfzwE3asy8N1ZhuZV_PrpONscYh8s1IdA_-sRePolQcVDRrqE8Ovv8Dr7EK9AMT-kQIB8JrDudGDhWthyOxf5dwilzY1Aqfo48AFVij6k3j_5OseSAhuoLNoKdqJnSXlFziX5yxac9-QnRQ7sq1tks_Un6RG9ejEgOiR-7QkacPDu-AvEDSrMV9BYZKg31HrTWoTrOI9QSwI9sbeqIJm2GJ20ecXO2KLGhCd7RkqNJb0E6QSLqjUIfe4VRN8JQ4tYzTdwZyUaMIWRsir-BDpUef3tck2iuqC1yZhPh2kOY2qNsxRgz3yB3FwtCzfv8hZh37QP6qjIMpEMl3fE0nVuo9uXEDONVSZeYxR-gIPaEDxgtLSOjBWqSQqdSaKN6p9IaTR2l0buvu-oCUgTSekpT_yHI1dJWBZIDFB1HhGt3aqsX_LaqLAcaDJyZXB_Sv_UuMN60oyABKgl1cy1lYXN0LTEw8Qc.m3u8
 #EXTINF:-1,COMGO7HD
 #EXTINF:-1,COMGO8HD
 #EXTINF:-1,COMGO9HD
@@ -20,18 +32,18 @@ https://video-weaver.bue01.hls.live-video.net/v1/playlist/CuEFhiOpAjQKZjHkvsNsPB
 #EXTINF:-1,COMGO14HD
 #EXTINF:-1,COMHITS
 http://217.75.193.202:3149/udp/239.31.1.26:1234
-#EXTINF:-1,COMGOANIME
+EXTINF:-1,COMGOANIME
 https://streamyes.alsolnet.com/maxanime/live/playlist.m3u8
-#EXTINF:-1,COMGOSPOTS
+EXTINF:-1,COMGOSPOTS
 https://streamyes.alsolnet.com/esportsmax/live/playlist.m3u8
 #EXTINF:-1,club disco
 https://stream.zeno.fm/n2e4q8rpxxhvv.m3u
-#EXTINF:-1,radiofm
+EXTINF:-1,radiofm
 https://stream.zeno.fm/cs288n3aguhvv.m3u
-#EXTINF:-1,STARES
+EXTINF:-1,STARES
 http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/126254
 #EXTINF:-1,COMGO14HD
-#EXTINF:-1,animemaxCOMGO
+EXTINF:-1,animemaxCOMGO
 https://d16k620tapvw9n.cloudfront.net/out/v1/ad1094549fd74838aa8a0e3a7732d2ff/index.mpd
 #EXTINF:-1,CAMAL1
 http://190.94.186.158:9981/play/a03r/index.m3u8
@@ -43,48 +55,15 @@ https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
 http://190.6.197.246:8000/play/a0en/index.m3u8
 #EXTINF:-1,Much Music HD
 http://190.6.199.61:8004/play/a08d/index.m3u8
-#EXTINF:-1,Glitz HD
-https://stream.kirachan.tech/memfs/9d77d905-8596-4236-a44f-2c6b077ebeb1.m3u8
-#EXTINF:-1, I-Sat Panregional SD
-https://stream.kirachan.tech/memfs/c32373db-ca4b-4f06-b279-4d376d307249.m3u8
-#EXTINF:-1,SEÑIAL 1 HD
+EXTINF:-1,SEÑIAL 1 HD
 http://190.6.199.61:8004/play/a08d/index.m3u8
-#EXTINF:-1,I.Sat
+EXTINF:-1,I.Sat
 http://200.115.98.26:9000/play/a019/index.m3u8
-#EXTINF:-1,isat HD
+EXTINF:-1,isat HD
 http://204.199.122.4:8000/play/b060/index.m3u8
 #EXTINF:-1,COMGO10HD
 #EXTINF:-1,RADDUIO
 https://stream-155.zeno.fm/h0rq175rwchvv
-#EXTINF:-1,animehd
+EXTINF:-1,animehd
 https://tgn.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8?WebM3UCL
-#EXTINF:-1,musica1
-https://v1.tustreaming.cl:443/somostv/index.m3u8?WebM3UCL
-#EXTINF:-1,musica1
-https://cdn.mycloudstream.io/hls/live/broadcast/hdc1pno4/mono.m3u8?WebM3UCL
 #EXTINF:-1,COMGO9
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Z15GFtH/logo-Syfy.png" group-title="JOVENES Y ADULTOS",SYFY LA HD
-https://stream.kirachan.tech/memfs/fbde2b07-7634-4e6a-906c-ef6aeabdff18.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qpf6p3n/Logo-Much-Music.png" group-title="JOVENES Y ADULTOS",Much Music HD
-https://stream.kirachan.tech/memfs/2b10fb7c-f9ce-4383-ab2e-6ef143a39d2a.m3u8
-#EXTINF:-1,pamdaMAX
-https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
-#EXTINF:-1,COMG12HDDD
-#EXTINF:-1,TV
-https://vivo.solumedia.com:19360/m21puramusica/m21puramusica.m3u8
-#EXTINF:-1,energeekHD
-https://wifiexpert-1.energeek.cl/energeek/canal-1/playlist.m3u8
-#EXTINF:-1,fanpopHD
-https://wifiexpert-1.energeek.cl/energeek/canal-2/playlist.m3u8
-#EXTINF:-1,ModoRadio TV
-https://wifiexpert-1.energeek.cl/energeek/modoradio/playlist.m3u8
-#EXTINF:-1,energeekRADIO
-https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8
-#EXTINF:-1,TNT NOVELAS
-http://138.59.177.34:8000/play/a02e/index.m3u8
-#EXTINF:-1,CANAL PREMIUM
-http://138.59.177.34:8000/play/a029/index.m3u8
-#EXTINF:-1,TELEMUSICA
-https://canal.mediaserver.com.co/live/telemusica.m3u8
-#EXTINF:-1, Claro Musica
-http://138.59.177.34:8000/play/a04a/index.m3u8
