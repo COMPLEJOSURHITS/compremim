@@ -15,16 +15,13 @@
 #EXTINF:-1,DovuXLife12
 #EXTINF:-1,Much Music Pamregianal
 https://glb.bozztv.com/glb/ssh101/comgola5/index.m3u8
-#EXTINF:-1,COMGO8HD
-https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8
+
 #EXTINF:-1,COMGO9HDS
 https://sonic.sistemahost.es/8066/stream
 #EXTINF:-1,COMG10HD
 #EXTINF:-1,COMGO11HD
 http://8.243.249.70:8000/play/a04w
 #EXTINF:-1,EVENTOHD
-#EXTINF:-1,COMGO13HD
-https://mitv.zplay.cl/Avi/video.m3u8
 #EXTINF:-1,COMGO14HD
 https://stream.zeno.fm/h0rq175rwchvv?aw_0_req_lsid=1714787784841_0.44792740233734074
 #EXTINF:-1,COMGO15HD
@@ -41,8 +38,12 @@ https://stream-152.zeno.fm/nnpg6nna0xhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ
 https://streaming-cl.sh1ny.space/memfs/4f2393d1-64eb-4e8f-a2f4-f60feea9e63d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qpf6p3n/Logo-Much-Music.png" group-title="JOVENES Y ADULTOS",Much Music HD
 https://streaming-cl.sh1ny.space/memfs/b4803e28-d393-4d4b-a76d-a3fb5d3485fe.m3u8
-#EXTINF:-1,pamdaMAX
-https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
+#EXTINF:-1,MuchMusic Panregional
+https://mitv.zplay.cl/Bakup/index.m3u8
+#EXTINF:-1,kanade
+https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8
+#EXTINF:-1,Avi
+https://mitv.zplay.cl/Avi/video.m3u8
 #EXTINF:-1,energeekHD
 https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
 #EXTINF:-1,fanpopHD
@@ -51,8 +52,6 @@ https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
 https://wifiexpert-1.energeek.cl/energeek/modoradio/playlist.m3u8
 #EXTINF:-1,energeekRADIO
 https://streaming-cl.sh1ny.space/memfs/75b105a4-2fd3-4538-a55c-480f3903a262.m3u8
-#EXTINF:-1,MuchMusic Panregional
-https://mitv.zplay.cl/Bakup/index.m3u8
 #EXTINF:-1,COMGOPLEYHD
 #EXTINF:-1,COMGO1HD
 #EXTINF:-1,COMGO2HDD
