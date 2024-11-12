@@ -44,8 +44,6 @@ https://streaming-cl.sh1ny.space/memfs/4f2393d1-64eb-4e8f-a2f4-f60feea9e63d.m3u8
 https://streaming-cl.sh1ny.space/memfs/b4803e28-d393-4d4b-a76d-a3fb5d3485fe.m3u8
 #EXTINF:-1,kanade
 https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8
-#EXTINF:-1,Avi
-https://mitv.zplay.cl/Avi/video.m3u8
 #EXTINF:-1,energeekHD
 https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
 #EXTINF:-1,fanpopHD
@@ -67,7 +65,7 @@ https://streaming-cl.sh1ny.space/memfs/75b105a4-2fd3-4538-a55c-480f3903a262.m3u8
 https://tv.streaming-chile.com:8081/ondaradiotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,COMG10HD
 #EXTINF:-1,sportmax2
-https://glb.bozztv.com/glb/ssh101/sportmax/playlist.m3u8
+https://streaming-cl.sh1ny.space/memfs/6f2ee266-1c1e-48ad-a5aa-e977dc33740e.m3u8
 #EXTINF:-1,sportmax1
 https://streaming-cl.sh1ny.space/memfs/8f9ec7e3-88d4-40c6-8a61-16162780fd33_output_0.m3u8?session=JugBGKZ7bwMrhCgqXhMAbE
 #EXTINF:-1,EVENTO2
