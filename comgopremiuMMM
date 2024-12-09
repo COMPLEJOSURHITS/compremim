@@ -1,5 +1,4 @@
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
-
 #EXTINF:-1,DovuXLife1
 #EXTINF:-1,DovuXLife2
 #EXTINF:-1,DovuXLife3
@@ -11,7 +10,6 @@
 #EXTINF:-1,DovuXLife10
 #EXTINF:-1,DovuXLife11
 #EXTINF:-1,DovuXLife12
-
 #EXTINF:-1,COMGO9HDS
 https://sonic.sistemahost.es/8066/stream
 #EXTINF:-1,COMG10HD
