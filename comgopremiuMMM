@@ -33,6 +33,20 @@ https://stream-152.zeno.fm/nnpg6nna0xhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ
 https://mitv.zplay.cl/SYFYcl/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qpf6p3n/Logo-Much-Music.png" group-title="JOVENES Y ADULTOS",COMMUSIC
 https://mitv.zplay.cl/MuchmusicCL/video.m3u8?token=D4lm1R0m-tFJES
+#EXTINF:-1 tvg-name="ZTV" tvg-id="Ztv" tvg-logo="https://mitv.zplay.cl/Ztv/logo",ZTV
+https://mitv.zplay.cl/Ztv/video.m3u8?token=vbHaoJkrcG9Nl0
+#EXTINF:-1 tvg-name="ZKIDS" tvg-id="Zkids" tvg-logo="https://mitv.zplay.cl/Zkids/logo",ZKIDS
+https://mitv.zplay.cl/Zkids/video.m3u8?token=vbHaoJkrcG9Nl0
+#EXTINF:-1 tvg-name="TOONIZAKI" tvg-id="ZRetro" tvg-logo="https://mitv.zplay.cl/ZRetro/logo",TOONIZAKI
+https://mitv.zplay.cl/ZRetro/video.m3u8?token=vbHaoJkrcG9Nl0
+#EXTINF:-1 tvg-name="ZTV" tvg-id="ZAnime" tvg-logo="https://mitv.zplay.cl/ZAnime/logo",ZTV
+https://mitv.zplay.cl/ZAnime/video.m3u8?token=vbHaoJkrcG9Nl0
+#EXTINF:-1 tvg-name="AVI" tvg-id="Avi" tvg-logo="https://mitv.zplay.cl/Avi/logo",AVI
+https://mitv.zplay.cl/Avi/video.m3u8?token=vbHaoJkrcG9Nl0
+#EXTINF:-1 tvg-name="AVI Rewind" tvg-id="Rewind" tvg-logo="https://mitv.zplay.cl/Rewind/logo",AVI Rewind
+https://mitv.zplay.cl/Rewind/video.m3u8?token=vbHaoJkrcG9Nl0
+#EXTINF:-1 tvg-name="AVI Kids" tvg-id="AKids",AVI Kids
+https://mitv.zplay.cl/AKids/video.m3u8?token=vbHaoJkrcG9Nl0
 #EXTINF:-1,kanade
 https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8
 #EXTINF:-1,energeekHD
