@@ -29,6 +29,10 @@ https://stream-154.zeno.fm/n2e4q8rpxxhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ
 #EXTINF:-1,COMGORADIO ESTUDIO 9
 https://stream-152.zeno.fm/nnpg6nna0xhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJubnBnNm5uYTB4aHZ2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInJ0dG
 #EXTINF:-1,COMGO14HD
+#EXTINF:-1,COMMUSIC
+https://mitv2.zplay.cl/COMUSIC/video.m3u8?token=o9fdGsQzOb3T12
+#EXTINF:-1,COMCHANNEL
+https://mitv2.zplay.cl/COMCHANNEL/video.m3u8?token=o9fdGsQzOb3T12
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Z15GFtH/logo-Syfy.png" group-title="JOVENES Y ADULTOS",COMCHANNEL
 https://mitv.zplay.cl/SYFYcl/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qpf6p3n/Logo-Much-Music.png" group-title="JOVENES Y ADULTOS",COMMUSIC
