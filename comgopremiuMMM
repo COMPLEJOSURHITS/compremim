@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url= https://zplay.cl/comgolatam.xml
+#EXTM3U x-tvg-url=https://zplay.cl/comgolatam.xml
 #EXTINF:-1,SEÑAL 1
 #EXTINF:-1,SEÑAL 2
 #EXTINF:-1,DovuXLife3
@@ -9,38 +9,6 @@
 #EXTINF:-1,DovuXLife9
 #EXTINF:-1,DovuXLife10
 #EXTINF:-1,DovuXLife11
-#EXTINF:-1,Baby TV SD
-http://143.255.183.78:8000/play/a04b/index.m3u8
-#EXTINF:-1,Baby TV SD
-http://178.162.225.116:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/342
-#EXTINF:-1,Cinecanal HD
- http://143.255.183.78:8000/play/a04a/index.m3u8
-#EXTINF:-1,Cinecanal HD
-http://143.255.183.78:8000/play/a01t/index.m3u8
-#EXTINF:-1,Cinecanal HD
-http://187.120.222.12:8000/play/a04p/index.m3u8
-#EXTINF:-1,Disney Channel HD
- http://143.255.183.78:8000/play/a00i/index.m3u8
-#EXTINF:-1,Disney Channel HD
-http://178.162.225.116:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/351
-#EXTINF:-1,FX HD
-http://143.255.183.78:8000/play/a01r/index.m3u8
-#EXTINF:-1,FX HD
-http://187.120.222.12:8000/play/a04o/index.m3u8
-#EXTINF:-1,FX HD
-http://178.162.225.116:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/244
-#EXTINF:-1,Nat Geo HD
-http://143.255.183.78:8000/play/a01n/index.m3u8
-#EXTINF:-1,Nat Geo HD
-https://abc.embedmax.site/nationalgeographic/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Nat Geo HD
-http://178.162.225.116:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/87
-#EXTINF:-1,Star Channel HD
-http://143.255.183.78:8000/play/a01q/index.m3u8
-#EXTINF:-1,Star Channel HD
-http://187.120.222.12:8000/play/a04n/index.m3u8
-#EXTINF:-1,Star Channel HD
-http://178.162.225.116:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/281
 #EXTINF:-1,DCH
 http://178.162.225.116:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/351
 #EXTINF:-1,STAR
