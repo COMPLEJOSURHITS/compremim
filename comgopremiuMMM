@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url= https://zplay.cl/comgolatam.xml
+#EXTM3U x-tvg-url=https://zplay.cl/comgolatam.xml
 #EXTINF:-1,SEÑAL 1
 #EXTINF:-1,SEÑAL 2
 #EXTINF:-1,DovuXLife3
@@ -27,8 +27,6 @@ https://mitv.zplay.cl/ZMusic/video.m3u8?token=vbHaoJkrcG9Nl0
 https://sonic.sistemahost.es/8066/stream
 #EXTINF:-1,COMDISCOOO
 https://latina.streeemer.com/listen/latina/radio.aac
-#EXTINF:-1,COMGO11HD
-http://8.243.249.70:8000/play/a04w
 #EXTINF:-1,EVENTOHD
 #EXTINF:-1,COMGO14HD
 https://stream.zeno.fm/h0rq175rwchvv?aw_0_req_lsid=1714787784841_0.44792740233734074
@@ -41,7 +39,8 @@ https://stream-176.zeno.fm/gz67e1ttg8ouv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ
 https://stream-154.zeno.fm/n2e4q8rpxxhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuMmU0cThycHh4aHZ2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInJ0dGwiO
 #EXTINF:-1,COMGORADIO ESTUDIO 9
 https://stream-152.zeno.fm/nnpg6nna0xhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJubnBnNm5uYTB4aHZ2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInJ0dG
-#EXTINF:-1,COMGO14HD
+#EXTINF:-1,COMMUSIC
+https://mitvhls.zplay.cl/COMUSIC/video.m3u8?token=gz0vEDn-cm0TT0
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Z15GFtH/logo-Syfy.png" group-title="JOVENES Y ADULTOS",COMCHANNEL
 https://mitv.zplay.cl/SYFYcl/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qpf6p3n/Logo-Much-Music.png" group-title="JOVENES Y ADULTOS",COMMUSIC
