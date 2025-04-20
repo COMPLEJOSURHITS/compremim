@@ -9,10 +9,6 @@
 #EXTINF:-1,DovuXLife8
 #EXTINF:-1,DovuXLife9
 #EXTINF:-1,DovuXLife10
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SDNgSgLt/Music-2.png" group-title="MUSICAS",COMMUSIC HD
-https://comgo.bnet.cl/comgo-commusic/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PbrpmLy/Logo-White.png" group-title="MUSICAS",COMCHANNEL HD
-https://comgo.bnet.cl/comgo-comchannel/index.m3u8
 #EXTINF:-1,COMDISCOOO
 https://latina.streeemer.com/listen/latina/radio.aac
 #EXTINF:-1,EVENTOHD
@@ -27,11 +23,9 @@ https://stream-176.zeno.fm/gz67e1ttg8ouv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ
 https://stream-154.zeno.fm/n2e4q8rpxxhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuMmU0cThycHh4aHZ2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInJ0dGwiO
 #EXTINF:-1,COMGORADIO ESTUDIO 9
 https://stream-152.zeno.fm/nnpg6nna0xhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJubnBnNm5uYTB4aHZ2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInJ0dG
-#EXTINF:-1,COMMUSIC
-https://mitvhls.zplay.cl/COMUSIC/video.m3u8?token=gz0vEDn-cm0TT0
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Z15GFtH/logo-Syfy.png" group-title="JOVENES Y ADULTOS",COMCHANNEL HD
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.ibb.co/PbrpmLy/Logo-White.png" group-title="MUSICAS",COMCHANNEL HD
 https://streaming-cl.sh1ny.space/memfs/aeb8e612-099c-49a7-b475-769b2c2064ca.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qpf6p3n/Logo-Much-Music.png" group-title="JOVENES Y ADULTOS",COMMUSIC HD
+#EXTINF:tvg-id="" tvg-logo="https://i.ibb.co/SDNgSgLt/Music-2.png" group-title="MUSICAS",COMMUSIC HD
 https://streaming-cl.sh1ny.space/memfs/13d25998-aa73-4d86-9524-d2d948590d3c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SDNgSgLt/Music-2.png" group-title="MUSICAS",COMMUSIC HD
 https://comgo.bnet.cl/comgo-commusic/index.m3u8
