@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url=https://zplay.cl/comgolatam.xml
+#EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
+
 #EXTINF:-1,SEÑAL 1
 #EXTINF:-1,SEÑAL 2
 #EXTINF:-1,DovuXLife3
@@ -32,6 +33,10 @@ https://mitvhls.zplay.cl/COMUSIC/video.m3u8?token=gz0vEDn-cm0TT0
 https://streaming-cl.sh1ny.space/memfs/aeb8e612-099c-49a7-b475-769b2c2064ca.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qpf6p3n/Logo-Much-Music.png" group-title="JOVENES Y ADULTOS",COMMUSIC HD
 https://streaming-cl.sh1ny.space/memfs/13d25998-aa73-4d86-9524-d2d948590d3c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SDNgSgLt/Music-2.png" group-title="MUSICAS",COMMUSIC HD
+https://comgo.bnet.cl/comgo-commusic/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PbrpmLy/Logo-White.png" group-title="MUSICAS",COMCHANNEL HD
+https://comgo.bnet.cl/comgo-comchannel/index.m3u8
 #EXTINF:-1,kanade
 https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8
 #EXTINF:-1,energeekHD
