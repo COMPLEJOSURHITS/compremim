@@ -31,6 +31,10 @@ https://streaming-cl.sh1ny.space/memfs/13d25998-aa73-4d86-9524-d2d948590d3c.m3u8
 https://comgo.bnet.cl/comgo-commusic/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PbrpmLy/Logo-White.png" group-title="MUSICAS",COMCHANNEL HD
 https://comgo.bnet.cl/comgo-comchannel/index.m3u8
+#EXTINF:-1,tes 1
+https://cl-live.elekta.lat/live/c7eds/ComgoChannel/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1,tes 2
+https://cl-live.elekta.lat/live/c7eds/ComgoMusic/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1,kanade
 https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8
 #EXTINF:-1,energeekHD
